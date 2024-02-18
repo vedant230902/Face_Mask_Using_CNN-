@@ -1,4 +1,4 @@
-# Face msk recognition using CNN
+# Face mask recognition using CNN
 
 Face mask detection using Convolutional Neural Networks (CNN) is a computer vision application aimed at automatically detecting whether a person is wearing a face mask or not.
 
